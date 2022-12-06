@@ -33,6 +33,8 @@ read_data1 and read_data2 are the data for registers $t1
 Architecture Design Map:
 ![](images/reference.png)
 
+References: zybook and ElectroBinary 
+
 
 
 
