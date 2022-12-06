@@ -34,6 +34,7 @@ Architecture Design Map:
 ![](images/reference.png)
 
 References: zybook and ElectroBinary 
+https://electrobinary.blogspot.com/2021/02/mips-processor-design-using-verilog-part1.html
 
 
 
