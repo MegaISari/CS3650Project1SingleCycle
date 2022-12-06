@@ -1,7 +1,3 @@
-// The control unit is that part of the processor which generates control signals in order to operate in the desired way depending on the instruction.
-// For example: The next instruction address to be executed is PC+4 for normal cases but is calculated differently if it is a BEQ instruction.
-// Let us now look at the Verilog code for the control logic, to see how much of control we have applied in the present design.
-
 module Control_Logic
 (
     instrn,
